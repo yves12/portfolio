@@ -39,4 +39,9 @@ body{
       -ms-transform: rotate(360deg);
           transform: rotate(360deg);
 }
+#gif{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+ }
 
