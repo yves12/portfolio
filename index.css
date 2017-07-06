@@ -44,4 +44,14 @@ body{
     top: 50%;
     left: 50%;
  }
-
+.div{
+    margin-top:25px;
+}
+#about{
+    text-indent: 1em;
+    line-height: 1.5em;
+}
+#webcam{
+margin-top:-444px;
+margin-left:230px;
+    }
